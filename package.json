@@ -1,11 +1,20 @@
 {
     "name": "react-boilerplate",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "truong",
-    "license": "ISC"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BeeTechJS/boilerplate.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/BeeTechJS/boilerplate/issues"
+    },
+    "homepage": "https://github.com/BeeTechJS/boilerplate#readme",
+    "description": ""
 }
